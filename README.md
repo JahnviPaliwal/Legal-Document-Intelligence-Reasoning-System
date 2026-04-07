@@ -1,4 +1,4 @@
-# ⚖️ Legal Document Intelligence & Reasoning System
+# Legal Document Intelligence & Reasoning System
 
 Extract entities, clauses, and relationships from legal documents and reason across them.
 
