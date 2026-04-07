@@ -1,0 +1,37 @@
+NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement ("Agreement") is entered into as of January 15, 2024, by and between:
+
+TechCorp Inc., a Delaware corporation with its principal place of business at 100 Innovation Drive, San Francisco, CA 94105 ("Disclosing Party"),
+
+and
+
+DataSystems Ltd., a company incorporated in England and Wales, with registered offices at 22 Baker Street, London, UK ("Receiving Party").
+
+1. PURPOSE
+The parties wish to explore a potential business relationship involving the sharing of proprietary technology data and business intelligence ("Purpose"). In connection with the Purpose, the Disclosing Party may share certain Confidential Information with the Receiving Party.
+
+2. CONFIDENTIAL INFORMATION
+"Confidential Information" means any information disclosed by TechCorp Inc. to DataSystems Ltd., either directly or indirectly, in writing, orally or by inspection of tangible objects, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information.
+
+3. CONFIDENTIALITY OBLIGATIONS
+DataSystems Ltd. agrees to: (a) hold all Confidential Information in strict confidence; (b) not disclose any Confidential Information to third parties without prior written consent of TechCorp Inc.; (c) use the Confidential Information solely for the Purpose; (d) protect the Confidential Information using the same degree of care it uses to protect its own confidential information, but no less than reasonable care.
+
+4. TERM
+This Agreement shall remain in effect for a period of three (3) years from the date of execution, unless earlier terminated by either party upon thirty (30) days written notice.
+
+5. INDEMNIFICATION
+DataSystems Ltd. shall indemnify, defend, and hold harmless TechCorp Inc. from and against any losses, damages, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to any breach of this Agreement by DataSystems Ltd.
+
+6. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to conflict of law principles.
+
+7. REMEDIES
+The parties acknowledge that any breach of this Agreement may cause irreparable harm to the Disclosing Party, and that monetary damages may be inadequate. The Disclosing Party shall be entitled to seek equitable relief, including injunction and specific performance, in addition to all other remedies available at law or in equity.
+
+Signed:
+Alice Johnson, CEO, TechCorp Inc.
+Date: January 15, 2024
+
+David Chen, Director, DataSystems Ltd.
+Date: January 15, 2024

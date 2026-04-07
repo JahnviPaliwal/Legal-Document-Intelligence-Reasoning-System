@@ -1,0 +1,48 @@
+SOFTWARE SERVICES AGREEMENT
+
+This Software Services Agreement ("Agreement") is made effective as of March 1, 2024, between:
+
+TechCorp Inc., a Delaware corporation ("Service Provider"),
+and
+MegaInsure Group plc, a public limited company registered in England, with principal offices at 50 Finsbury Square, London EC2A 1HD ("Client").
+
+1. SERVICES
+Service Provider agrees to provide the following software services to Client:
+(a) Deployment and configuration of InsightAI risk assessment platform;
+(b) Integration with Client's existing data infrastructure;
+(c) Ongoing technical support and maintenance;
+(d) Quarterly software updates and feature releases.
+
+2. PAYMENT TERMS
+Client shall pay Service Provider a monthly subscription fee of USD $45,000, due on the first business day of each calendar month. Late payments shall accrue interest at 1.5% per month. Service Provider may suspend services after 15 days of non-payment.
+
+3. TERM AND TERMINATION
+This Agreement commences on March 1, 2024 and continues for an initial term of two (2) years. Either party may terminate this Agreement upon ninety (90) days written notice after the initial term. Client may terminate for cause if Service Provider fails to meet SLA requirements for three (3) consecutive months.
+
+4. SERVICE LEVEL AGREEMENT (SLA)
+Service Provider guarantees 99.5% uptime for the InsightAI platform, measured monthly. In the event of downtime exceeding the SLA, Client shall receive service credits of 10% of the monthly fee for each additional percentage point of downtime.
+
+5. DATA PROTECTION AND CONFIDENTIALITY
+Both parties agree to comply with applicable data protection laws including GDPR. Service Provider shall not use Client data for any purpose other than providing the Services. Service Provider shall implement industry-standard security measures including AES-256 encryption and SOC 2 Type II compliance.
+
+6. INTELLECTUAL PROPERTY
+All intellectual property rights in InsightAI remain the exclusive property of TechCorp Inc. Client receives a limited, non-exclusive, non-transferable license to use the platform during the Agreement term. Any custom developments commissioned by Client shall be jointly owned.
+
+7. LIABILITY LIMITATION
+Neither party shall be liable for indirect, incidental, or consequential damages. Service Provider's total liability under this Agreement shall not exceed the total fees paid by Client in the twelve (12) months preceding the claim.
+
+8. INDEMNIFICATION
+Each party shall indemnify the other against third-party claims arising from its own breach of this Agreement, negligence, or wilful misconduct.
+
+9. DISPUTE RESOLUTION
+Any disputes shall first be referred to senior management of both parties for resolution. If unresolved within 30 days, disputes shall be referred to binding arbitration under the ICC Rules in London, England.
+
+10. GOVERNING LAW
+This Agreement shall be governed by the laws of England and Wales.
+
+Signed:
+Carol Lee, CTO, TechCorp Inc.
+Date: March 1, 2024
+
+James Hartwell, General Counsel, MegaInsure Group plc
+Date: March 1, 2024
