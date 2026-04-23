@@ -44,3 +44,7 @@ Use the **"Load sample legal documents"** button in the sidebar to process them 
 | `reasoning.py` | Cross-document reasoning and Q&A |
 | `data/` | Sample legal text files |
 | `requirements.txt` | Python dependencies |
+
+
+
+<img width="494" height="768" alt="Image" src="https://github.com/user-attachments/assets/bbb5b06b-289d-418d-aa0f-ad205c1abe60" />
